@@ -1,3 +1,10 @@
+/*
+my
+first 
+script
+*/
+
 var name = prompt('Wpisz swoje imię');
-alert('Witaj, ' + name);
+//some comment
+//alert('Witaj, ' + name);
 console.log('Witaj, ' + name);
